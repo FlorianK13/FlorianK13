@@ -11,7 +11,9 @@ My main interests lie in the fields of energy data and ML-based forecasting of P
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/FlorianKotthoff" target="blank"><img src="https://img.shields.io/twitter/follow/FlorianKotthoff?logo=twitter&style=for-the-badge" alt="FlorianKotthoff" /></a> </p>
+<p align="left"> <a href="https://troet.cafe/web/@floko" target="blank"><img src="https://img.shields.io/mastodon/follow/109336046593826972?domain=https%3A%2F%2Ftroet.cafe&style=social" alt="FlorianKotthoff" /></a> </p>
+<p align="left">
+<p align="left"> <a href="https://twitter.com/FlorianKotthoff" target="blank"><img src="https://img.shields.io/twitter/follow/FlorianKotthoff?logo=twitter&style=social" alt="FlorianKotthoff" /></a> </p>
 <p align="left">
 </p>
 
