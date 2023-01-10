@@ -25,4 +25,4 @@ My main interests are the topics of energy data and ML-based short-term forecast
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianK13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a rel="me" href="https://troet.cafe/@floko">Mastodon</a>
+<a rel="me" href="https://troet.cafe/@floko"> </a>
