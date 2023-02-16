@@ -11,7 +11,8 @@ My main interests are the topics of energy data and ML-based short-term forecast
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://mastodon.energy/@floko" target="blank"><img src="https://img.shields.io/mastodon/follow/109336046593826972?domain=https%3A%2F%2Ftroet.cafe&style=social" alt="FlorianKotthoff" /></a> </p>
+
+<p align="left"> <a href="https://mastodon.energy/@floko" target="blank"><img src="https://img.shields.io/mastodon/follow/109829890350896281?domain=https%3A%2F%2Fmastodon.energy" alt="FlorianKotthoff" /></a> </p>
 <p align="left">
 
 
