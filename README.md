@@ -7,7 +7,7 @@
 <p align="left">
 I am a researcher at <a href="https://www.fortiss.org/" target="_blank" rel="noreferrer">fortiss</a> in Munich since 2021.
 I work as developer and data scientist at the research group <a href="https://www.fortiss.org/en/research/fields-of-research/detail/architectures-and-services-for-critical-infrastructures" target="_blank" rel="noreferrer">Architectures and Services for Critical Infrastructures</a> . 
-Find more about me on my homepage: <a href="https://kotthoff.dev target="_blank" rel="noreferrer">kotthoff.dev</a>
+Find more about me on my homepage: <a href="https://kotthoff.dev" target="_blank" rel="noreferrer">kotthoff.dev</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
