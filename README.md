@@ -6,10 +6,11 @@
 <h3 align="left">About me:</h3>
 <p align="left">
 I am a researcher at <a href="https://www.offis.de/" target="_blank" rel="noreferrer">OFFIS</a> in Oldenburg.
-I work as a developer and researcher at the group <a href="https://www.offis.de/en/applications/energy/data-integration-and-processing.html" target="_blank" rel="noreferrer">Data Integration and Processing</a>. 
-I am also one of the four developers of <a href="https://www.openpv.de/" target="_blank" rel="noreferrer">OpenPV</a>.
-Find more info about me on my homepage: <a href="https://kotthoff.dev" target="_blank" rel="noreferrer">kotthoff.dev</a>
-</p>
+There, I'm part of the group <a href="https://www.offis.de/en/applications/energy/data-integration-and-processing.html" target="_blank" rel="noreferrer">Data Integration and Processing</a>. 
+I'm also an external PhD student at <a href="https://www.epe.ed.tum.de/en/ens/homepage/" target="_blank" rel="noreferrer">TU Munich - Chair of Renewable and Sustainable Energy Systems</a>. 
+
+Check out <a href="https://www.openpv.de/" target="_blank" rel="noreferrer">OpenPV</a>, a PV simulation tool I develop together with friends.
+
 
 <h3 align="left">Connect with me:</h3>
 
