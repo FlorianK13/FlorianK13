@@ -4,12 +4,12 @@
 
 
 <h3 align="left">About me:</h3>
-<p align="left">
-I am a researcher at <a href="https://www.offis.de/" target="_blank" rel="noreferrer">OFFIS</a> in Oldenburg.
-There, I'm part of the group <a href="https://www.offis.de/en/applications/energy/data-integration-and-processing.html" target="_blank" rel="noreferrer">Data Integration and Processing</a>. 
-I'm also an external PhD student at <a href="https://www.epe.ed.tum.de/en/ens/homepage/" target="_blank" rel="noreferrer">TU Munich - Chair of Renewable and Sustainable Energy Systems</a>. 
-
-Check out <a href="https://www.openpv.de/" target="_blank" rel="noreferrer">OpenPV</a>, a PV simulation tool I develop together with friends.
+<ul align="left">
+  <li>Researcher at <a href="https://www.offis.de/" target="_blank" rel="noreferrer">OFFIS</a> in Oldenburg.</li>
+  <li>Part of the group <a href="https://www.offis.de/en/applications/energy/data-integration-and-processing.html" target="_blank" rel="noreferrer">Data Integration and Processing</a>. </li>
+  <li>External PhD student at <a href="https://www.epe.ed.tum.de/en/ens/homepage/" target="_blank" rel="noreferrer">TU Munich - Chair of Renewable and Sustainable Energy Systems</a>. </li>
+  <li>Developer at <a href="https://www.openpv.de/" target="_blank" rel="noreferrer">OpenPV</a>, a PV simulation tool in 3D in the browser.</li>
+</ul>
 
 
 <h3 align="left">Connect with me:</h3>
