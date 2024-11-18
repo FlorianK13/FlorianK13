@@ -1,3 +1,6 @@
+[![Mastodon](https://img.shields.io/mastodon/follow/109829890350896281?domain=https%3A%2F%2Fmastodon.energy)](https://mastodon.energy/@floko)
+[![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@FlorianK13)](https://joss.theoj.org/papers/reviewed_by/@FlorianK13)
+
 <h1 align="center">Hi 👋, I'm Florian</h1>
 <h3 align="center">Researcher - Software | Data Engineering | Renewable Energies</h3>
 
@@ -12,9 +15,8 @@
 </ul>
 
 
-<h3 align="left">Connect with me:</h3>
 
-<p align="left"> <a href="https://mastodon.energy/@floko" target="blank"><img src="https://img.shields.io/mastodon/follow/109829890350896281?domain=https%3A%2F%2Fmastodon.energy" alt="FlorianKotthoff" /></a> </p>
-<p align="left">
+
+
 
 <a rel="me" href="https://mastodon.energy/@floko"> </a>
