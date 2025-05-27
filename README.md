@@ -14,6 +14,7 @@
   <li>Developer at <a href="https://www.openpv.de/" target="_blank" rel="noreferrer">OpenPV</a>, a PV simulation tool in 3D in the browser.</li>
 </ul>
 
+Profile Image by [Valentina Arros](https://www.valentina-arros.com/).
 
 
 
