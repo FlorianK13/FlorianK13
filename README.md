@@ -1,4 +1,3 @@
-[![Mastodon](https://img.shields.io/mastodon/follow/109829890350896281?domain=https%3A%2F%2Fmastodon.energy)](https://mastodon.energy/@floko)
 [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@FlorianK13)](https://joss.theoj.org/papers/reviewed_by/@FlorianK13)
 
 <h1 align="center">Hi 👋, I'm Florian</h1>
