@@ -1,10 +1,8 @@
 [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@FlorianK13)](https://joss.theoj.org/papers/reviewed_by/@FlorianK13)
 
-<h1 align="center">Hi 👋, I'm Florian</h1>
-<h3 align="center">Researcher - Software | Data Engineering | Renewable Energies</h3>
-
-
-
+> [!NOTE]
+> I wish I were more active on [codeberg](https://codeberg.org/floko) instead of github.
+  
 <h3 align="left">About me:</h3>
 <ul align="left">
   <li>Researcher at <a href="https://www.offis.de/" target="_blank" rel="noreferrer">OFFIS</a> in Oldenburg.</li>
